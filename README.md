@@ -10,4 +10,4 @@ $python3 cheatsheet.py
 
 Enter Command Number: 1
 
-The output of 1 you execute the first command listed in the library.
+The output of 1 will execute the first command listed in the library.
